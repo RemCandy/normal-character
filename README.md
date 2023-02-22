@@ -22,5 +22,5 @@ rm -rf ./normal-character
 克隆项目<br>
 
 ```
-git clone https://ghproxy.com/https://github.com/RemYui/normal-character.git
+git clone https://github.com/RemYui/normal-character.git
 ```
