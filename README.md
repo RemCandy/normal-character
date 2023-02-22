@@ -21,6 +21,11 @@ rm -rf ./normal-character
 
 克隆项目<br>
 
+Gitee<br>
+```
+git clone https://gitee.com/pig-hooves/normal-character.git
+```
+GitHub
 ```
 git clone https://github.com/RemYui/normal-character.git
 ```
