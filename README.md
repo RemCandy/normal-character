@@ -23,9 +23,9 @@ rm -rf ./normal-character
 
 Gitee<br>
 ```
-git clone https://gitee.com/pig-hooves/normal-character.git
+git clone https://gitee.com/RemCandy/normal-character.git
 ```
 GitHub
 ```
-git clone https://github.com/RemYui/normal-character.git
+git clone https://github.com/RemCandy/normal-character.git
 ```
